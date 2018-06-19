@@ -1,7 +1,5 @@
-# Scraping
-
 ==================
-      SPADES
+     Scraping
 ==================
 
 Made By: Israel Felhandler
