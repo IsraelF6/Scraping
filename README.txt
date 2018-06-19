@@ -7,7 +7,8 @@ Made By: Israel Felhandler
 This program made for a Python class will navigate to the FSU CS department website and print out a directory containing the telephone number, office location,
 email, and webpage of every faculty member in the department. The script uses the root page for faculty listings at http://www.cs.fsu.edu/department/faculty/ and dynamically gathers the information from each faculty member's website.
 
-## Sample output
+
+Sample output:
 
 $ python faculty_directory.py
 Name: Sudhir Aggarwal
